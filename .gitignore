@@ -1,4 +1,6 @@
 *.DS_Store
 lecture
+reading
+research
 **/data
 *.pyc
